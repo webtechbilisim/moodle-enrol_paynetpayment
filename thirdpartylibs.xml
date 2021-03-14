@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<libraries>
+  <library>
+    <location>paynet</location>
+    <name>paynet-php</name>
+    <license>MIT</license>
+  </library>
+</libraries>
